@@ -571,6 +571,11 @@
       }
     }
   }
+  .md\:flex {
+    @media (width >= 48rem) {
+      display: flex;
+    }
+  }
 }
 @property --tw-border-style {
   syntax: "*";
