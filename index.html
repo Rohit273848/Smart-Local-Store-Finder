@@ -30,14 +30,16 @@
         <div class="text-3xl font-bold text-pink-600 tracking-wide ">
             <span class="text-gray-800">Shop</span><span class="text-yellow-600">Near</span>
         </div>
-        <div id="search" class="text-right pr-1 flex justify-center bg-[#ffffff]">
+        <div id="search" class="text-right pr-1 flex justify-center pt-3 sm:pt-0 bg-[#ffffff]">
             <input type="text" id="productSearch" placeholder="Search for a product..." oninput="filterStores()"
                 class="px-6 py-2 w-[462px] rounded border border-gray-300" />
-            <button id="searchButton"
-                class="bg-yellow-500 text-black  hover:bg-yellow-600 hover:shadow-[0_8px_20px_rgba(250,204,21,0.4)] px-6 py-2"
-                onclick="filterStores()">
-                Search
-            </button>
+                <input
+                id="searchInput"
+                type="text"
+                placeholder="Search for products or categories..."
+                class="border px-4 py-2 rounded w-full max-w-md"
+              />
+              
         </div>
     </div>
   <!-- How it works section -->
@@ -167,36 +169,39 @@
     
       <div class="flex flex-wrap justify-around  gap-y-10 text-center">
 
+   <!-- Snacks & Beverages -->
+<a href="products.html?category=Snacks%20%26%20Beverages" class="flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105  text-black">
+  <img src="https://rukminim2.flixcart.com/flap/128/128/image/9fbd36.jpg?q=100" alt="Snacks" class="w-16 h-16 object-contain mb-2" />
+  <p class="text-sm font-semibold text-center">Snacks & Beverages</p>
+</a>
     
-        <!-- Snacks & Beverages -->
-        <div class="flex flex-col items-center w-20 md:w-40">
-          <img src="https://rukminim2.flixcart.com/flap/128/128/image/9fbd36.jpg?q=100" alt="Snacks" class="w-14 h-14 mb-2" />
-          <p class="text-sm font-medium">Snacks & Beverages</p>
-        </div>
+    <!-- Personal & Baby Care -->
+<a href="products.html?category=Personal%20%26%20Baby%20Care" class="flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105 text-black hover:text-yellow-600">
+  <img src="https://rukminim2.flixcart.com/flap/128/128/image/7670e2.jpg?q=100" alt="Personal Care" class="w-16 h-16 object-contain mb-2" />
+  <p class="text-sm font-semibold text-center">Personal & Baby Care</p>
+</a>
+
     
-        <!-- Packaged Food -->
-        <div class="flex flex-col items-center w-20 md:w-40">
-          <img src="https://rukminim2.flixcart.com/flap/128/128/image/ac8550.jpg?q=100" alt="Packaged Food" class="w-14 h-14 mb-2" />
-          <p class="text-sm font-medium">Packaged Food</p>
-        </div>
-    
-        <!-- Personal & Baby Care -->
-        <div class="flex flex-col items-center w-20 md:w-40">
-          <img src="https://rukminim2.flixcart.com/flap/128/128/image/7670e2.jpg?q=100" alt="Personal Care" class="w-14 h-14 mb-2" />
-          <p class="text-sm font-medium">Personal & Baby Care</p>
-        </div>
-    
-        <!-- Household Care -->
-        <div class="flex flex-col items-center w-20 md:w-40">
-          <img src="https://rukminim2.flixcart.com/flap/128/128/image/b7ade9.jpg?q=100" alt="Household" class="w-14 h-14 mb-2" />
-          <p class="text-sm font-medium">Household Care</p>
-        </div>
-    
-        <!-- Home & Kitchen -->
-        <div class="flex flex-col items-center w-20 md:w-40">
-          <img src="https://rukminim2.flixcart.com/flap/128/128/image/8014b1.jpg?q=100" alt="Home & Kitchen" class="w-14 h-14 mb-2" />
-          <p class="text-sm font-medium">Home & Kitchen</p>
-        </div>
+
+
+<!-- Packaged Food -->
+<a href="products.html?category=Packaged%20Food" class="flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105  text-black">
+  <img src="https://rukminim2.flixcart.com/flap/128/128/image/ac8550.jpg?q=100" alt="Packaged Food" class="w-16 h-16 object-contain mb-2" />
+  <p class="text-sm font-semibold text-center">Packaged Food</p>
+</a>
+
+<!-- Household Care -->
+<a href="products.html?category=Household%20Care" class="flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105  text-black">
+  <img src="https://rukminim2.flixcart.com/flap/128/128/image/b7ade9.jpg?q=100" alt="Household" class="w-16 h-16 object-contain mb-2" />
+  <p class="text-sm font-semibold text-center">Household Care</p>
+</a>
+
+<!-- Home & Kitchen -->
+<a href="products.html?category=Home%20%26%20Kitchen" class="flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105  text-black">
+  <img src="https://rukminim2.flixcart.com/flap/128/128/image/8014b1.jpg?q=100" alt="Home & Kitchen" class="w-16 h-16 object-contain mb-2" />
+  <p class="text-sm font-semibold text-center">Home & Kitchen</p>
+</a>
+
     
       </div>
     </div>
