@@ -6,9 +6,9 @@
     "category": "Personal & Baby Care",
     "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/shampoo/k/b/k/-original-imagqbt2gnmhqgza.jpeg?q=70",
     "stores": [
-      { "storeName": "City Superstore", "location": "Pachora", "price": 208, "rating": 4.4 },
-      { "storeName": "Daily Needs", "location": "Bhusawal", "price": 206, "rating": 4.4 },
-      { "storeName": "City Superstore", "location": "Nashik", "price": 205, "rating": 3.7 }
+      { "storeName": "City Superstore", "location": "Satara Parisar", "price": 208, "rating": 4.4 },
+      { "storeName": "D Mart", "location": "High court", "price": 206, "rating": 4.4 },
+      { "storeName": "City Superstore", "location": "MIT", "price": 205, "rating": 3.7 }
     ]
   },
   {
@@ -18,9 +18,9 @@
     "category": "Personal & Baby Care",
     "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/toothpaste/z/h/d/80-kids-cocomelon-tooth-paste-for-2-5-years-strawberry-cavity-original-imah4egv5hfwf557.jpeg?q=70",
     "stores": [
-      { "storeName": "Smart Bazaar", "location": "Nashik", "price": 102, "rating": 3.8 },
-      { "storeName": "City Superstore", "location": "Pachora", "price": 100, "rating": 4.0 },
-      { "storeName": "Mega Store", "location": "Pachora", "price": 104, "rating": 4.0 }
+      { "storeName": "Smart Bazaar", "location": "MIT", "price": 102, "rating": 3.8 },
+      { "storeName": "City Superstore", "location": "Satara Parisar", "price": 100, "rating": 4.0 },
+      { "storeName": "Mega Store", "location": "Satara Parisar", "price": 104, "rating": 4.0 }
     ]
   },
   {
@@ -30,9 +30,9 @@
     "category": "Personal & Baby Care",
     "image": "https://rukminim2.flixcart.com/image/280/280/ks99aq80/diaper/r/a/a/elastic-waistband-diaper-pants-s-60-miss-chief-original-imag5uy4fgzxbf4p.jpeg?q=70",
     "stores": [
-      { "storeName": "Daily Needs", "location": "Jalgaon", "price": 148, "rating": 4.5 },
-      { "storeName": "Smart Bazaar", "location": "Nashik", "price": 149, "rating": 4.2 },
-      { "storeName": "City Superstore", "location": "Bhusawal", "price": 151, "rating": 4.0 }
+      { "storeName": "DMart", "location": "Derga", "price": 148, "rating": 4.5 },
+      { "storeName": "Smart Bazaar", "location": "MIT", "price": 149, "rating": 4.2 },
+      { "storeName": "City Superstore", "location": "High court", "price": 151, "rating": 4.0 }
     ]
   },
   {
@@ -42,9 +42,9 @@
     "category": "Personal & Baby Care",
     "image": "https://rukminim2.flixcart.com/image/280/280/kv2pk7k0/moisturizer-cream/n/v/f/400-herbals-aloe-and-cucumber-refreshing-body-lotion-400ml-original-imag82e5wyzcyqbk.jpeg?q=70",
     "stores": [
-      { "storeName": "Mega Store", "location": "Jalgaon", "price": 179, "rating": 4.6 },
-      { "storeName": "Daily Needs", "location": "Pachora", "price": 181, "rating": 4.3 },
-      { "storeName": "Smart Bazaar", "location": "Nashik", "price": 180, "rating": 4.1 }
+      { "storeName": "Mega Store", "location": "Derga", "price": 179, "rating": 4.6 },
+      { "storeName": "D Mart", "location": "Satara Parisar", "price": 181, "rating": 4.3 },
+      { "storeName": "Smart Bazaar", "location": "MIT", "price": 180, "rating": 4.1 }
     ]
   },
   {
@@ -54,9 +54,9 @@
     "category": "Snacks & Beverages",
     "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/chips/o/u/8/-original-imagkwamgxbhmbpq.jpeg?q=70",
     "stores": [
-      { "storeName": "Smart Bazaar", "location": "Jalgaon", "price": 42, "rating": 4.3 },
-      { "storeName": "City Superstore", "location": "Bhusawal", "price": 39, "rating": 4.2 },
-      { "storeName": "Daily Needs", "location": "Nashik", "price": 41, "rating": 4.1 }
+      { "storeName": "Smart Bazaar", "location": "Derga", "price": 42, "rating": 4.3 },
+      { "storeName": "City Superstore", "location": "High court", "price": 39, "rating": 4.2 },
+      { "storeName": "D Mart", "location": "MIT", "price": 41, "rating": 4.1 }
     ]
   },
   {
@@ -66,9 +66,9 @@
     "category": "Snacks & Beverages",
     "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/aerated-drink/b/q/v/-original-imagqr8yuhdarmnu.jpeg?q=70",
     "stores": [
-      { "storeName": "Mega Store", "location": "Nashik", "price": 36, "rating": 3.9 },
-      { "storeName": "Smart Bazaar", "location": "Pachora", "price": 34, "rating": 4.1 },
-      { "storeName": "Daily Needs", "location": "Bhusawal", "price": 35, "rating": 4.3 }
+      { "storeName": "Mega Store", "location": "MIT", "price": 36, "rating": 3.9 },
+      { "storeName": "Smart Bazaar", "location": "Satara Parisar", "price": 34, "rating": 4.1 },
+      { "storeName": "D Mart", "location": "High court", "price": 35, "rating": 4.3 }
     ]
   },
   {
@@ -78,9 +78,9 @@
     "category": "Snacks & Beverages",
     "image": "https://rukminim2.flixcart.com/image/280/280/kuef2q80/drinks-juice/5/g/s/coconut-water-plastic-bottle-raw-pressery-original-imag7gx2whktfykz.jpeg?q=70",
     "stores": [
-      { "storeName": "City Superstore", "location": "Jalgaon", "price": 56, "rating": 4.2 },
-      { "storeName": "Smart Bazaar", "location": "Bhusawal", "price": 55, "rating": 4.1 },
-      { "storeName": "Daily Needs", "location": "Nashik", "price": 54, "rating": 4.0 }
+      { "storeName": "City Superstore", "location": "Derga", "price": 56, "rating": 4.2 },
+      { "storeName": "Smart Bazaar", "location": "High court", "price": 55, "rating": 4.1 },
+      { "storeName": "D Mart", "location": "MIT", "price": 54, "rating": 4.0 }
     ]
   },
   {
@@ -90,9 +90,9 @@
     "category": "Snacks & Beverages",
     "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/cookie-biscuit/n/r/e/415-vanilla-cr-me-1-sunfeast-dark-fantasy-original-imah555nfgdzqggr.jpeg?q=70",
     "stores": [
-      { "storeName": "Mega Store", "location": "Pachora", "price": 29, "rating": 4.0 },
-      { "storeName": "City Superstore", "location": "Bhusawal", "price": 32, "rating": 4.3 },
-      { "storeName": "Smart Bazaar", "location": "Nashik", "price": 30, "rating": 4.1 }
+      { "storeName": "Mega Store", "location": "Satara Parisar", "price": 29, "rating": 4.0 },
+      { "storeName": "City Superstore", "location": "High court", "price": 32, "rating": 4.3 },
+      { "storeName": "Smart Bazaar", "location": "MIT", "price": 30, "rating": 4.1 }
     ]
   },
 
@@ -103,9 +103,9 @@
       "category": "Packaged Food",
       "image": "https://rukminim2.flixcart.com/image/280/280/xif0q/noodle/t/c/m/-original-imagwy2ngz9z3nww.jpeg?q=70",
       "stores": [
-        { "storeName": "Smart Bazaar", "location": "Jalgaon", "price": 58, "rating": 4.2 },
-        { "storeName": "City Superstore", "location": "Pachora", "price": 60, "rating": 4.3 },
-        { "storeName": "Daily Needs", "location": "Nashik", "price": 59, "rating": 4.1 }
+        { "storeName": "Smart Bazaar", "location": "Derga", "price": 58, "rating": 4.2 },
+        { "storeName": "City Superstore", "location": "Satara Parisar", "price": 60, "rating": 4.3 },
+        { "storeName": "D Mart", "location": "MIT", "price": 59, "rating": 4.1 }
       ]
     },
     {
@@ -115,9 +115,9 @@
       "category": "Packaged Food",
       "image": "https://rukminim2.flixcart.com/image/280/280/kox8b680/pasta/x/h/a/na-regular-del-monte-original-imag39ur7f234frd.jpeg?q=70",
       "stores": [
-        { "storeName": "City Superstore", "location": "Bhusawal", "price": 76, "rating": 4.0 },
-        { "storeName": "Mega Store", "location": "Pachora", "price": 75, "rating": 4.2 },
-        { "storeName": "Smart Bazaar", "location": "Nashik", "price": 77, "rating": 4.1 }
+        { "storeName": "City Superstore", "location": "High court", "price": 76, "rating": 4.0 },
+        { "storeName": "Mega Store", "location": "Satara Parisar", "price": 75, "rating": 4.2 },
+        { "storeName": "Smart Bazaar", "location": "MIT", "price": 77, "rating": 4.1 }
       ]
     },
     {
@@ -127,9 +127,9 @@
       "category": "Packaged Food",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/cereal-flake/h/3/w/1-corn-flakes-family-pouch-1-8am-original-imah44byuexxqn9z.jpeg?q=70",
       "stores": [
-        { "storeName": "Smart Bazaar", "location": "Pachora", "price": 118, "rating": 4.4 },
-        { "storeName": "Mega Store", "location": "Jalgaon", "price": 121, "rating": 4.3 },
-        { "storeName": "City Superstore", "location": "Nashik", "price": 120, "rating": 4.5 }
+        { "storeName": "Smart Bazaar", "location": "Satara Parisar", "price": 118, "rating": 4.4 },
+        { "storeName": "Mega Store", "location": "Derga", "price": 121, "rating": 4.3 },
+        { "storeName": "City Superstore", "location": "MIT", "price": 120, "rating": 4.5 }
       ]
     },
     {
@@ -139,9 +139,9 @@
       "category": "Packaged Food",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/cereal-flake/x/k/4/400-100-jumbo-rolled-oats-wholegrain-gluten-free-high-fiber-original-imagsz6zphgzxagx.jpeg?q=70",
       "stores": [
-        { "storeName": "City Superstore", "location": "Bhusawal", "price": 92, "rating": 4.1 },
-        { "storeName": "Daily Needs", "location": "Jalgaon", "price": 90, "rating": 4.3 },
-        { "storeName": "Smart Bazaar", "location": "Nashik", "price": 89, "rating": 4.2 }
+        { "storeName": "City Superstore", "location": "High court", "price": 92, "rating": 4.1 },
+        { "storeName": "D Mart", "location": "Derga", "price": 90, "rating": 4.3 },
+        { "storeName": "Smart Bazaar", "location": "MIT", "price": 89, "rating": 4.2 }
       ]
     },
     {
@@ -151,9 +151,9 @@
       "category": "Household Care",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dish-cleaning-gel/2/o/r/lemon-5-liter-dish-cleaning-gel-non-acidic-dishwashing-detergent-original-imah3ffghpbf7pns.jpeg?q=70",
       "stores": [
-        { "storeName": "Daily Needs", "location": "Pachora", "price": 66, "rating": 4.4 },
-        { "storeName": "City Superstore", "location": "Nashik", "price": 65, "rating": 4.3 },
-        { "storeName": "Smart Bazaar", "location": "Jalgaon", "price": 64, "rating": 4.2 }
+        { "storeName": "D Mart", "location": "Satara Parisar", "price": 66, "rating": 4.4 },
+        { "storeName": "City Superstore", "location": "MIT", "price": 65, "rating": 4.3 },
+        { "storeName": "Smart Bazaar", "location": "Derga", "price": 64, "rating": 4.2 }
       ]
     },
     {
@@ -163,9 +163,9 @@
       "category": "Household Care",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/toilet-cleaner/f/z/3/garden-bloom-5-disinfectant-toilet-cleaner-original-kills-99-9-original-imah7ghpv8uffgah.jpeg?q=70",
       "stores": [
-        { "storeName": "Mega Store", "location": "Bhusawal", "price": 86, "rating": 4.5 },
-        { "storeName": "Daily Needs", "location": "Nashik", "price": 84, "rating": 4.2 },
-        { "storeName": "City Superstore", "location": "Jalgaon", "price": 85, "rating": 4.1 }
+        { "storeName": "Mega Store", "location": "High court", "price": 86, "rating": 4.5 },
+        { "storeName": "D Mart", "location": "MIT", "price": 84, "rating": 4.2 },
+        { "storeName": "City Superstore", "location": "Derga", "price": 85, "rating": 4.1 }
       ]
     },
     {
@@ -175,9 +175,9 @@
       "category": "Household Care",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-bathroom-floor-cleaner/7/t/x/citrus-1-disinfectant-surface-and-floor-cleaner-1-bottle-lizol-original-imahaff2ttytmknz.jpeg?q=70",
       "stores": [
-        { "storeName": "Smart Bazaar", "location": "Nashik", "price": 112, "rating": 4.6 },
-        { "storeName": "City Superstore", "location": "Pachora", "price": 109, "rating": 4.3 },
-        { "storeName": "Daily Needs", "location": "Jalgaon", "price": 110, "rating": 4.4 }
+        { "storeName": "Smart Bazaar", "location": "MIT", "price": 112, "rating": 4.6 },
+        { "storeName": "City Superstore", "location": "Satara Parisar", "price": 109, "rating": 4.3 },
+        { "storeName": "D Mart", "location": "Derga", "price": 110, "rating": 4.4 }
       ]
     },
     {
@@ -187,9 +187,9 @@
       "category": "Household Care",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/air-freshener/7/4/h/225-matic-combi-bar-godrej-aer-original-imah8yqwmf3pfh9y.jpeg?q=70",
       "stores": [
-        { "storeName": "Mega Store", "location": "Pachora", "price": 94, "rating": 4.3 },
-        { "storeName": "Smart Bazaar", "location": "Jalgaon", "price": 95, "rating": 4.2 },
-        { "storeName": "City Superstore", "location": "Nashik", "price": 96, "rating": 4.1 }
+        { "storeName": "Mega Store", "location": "Satara Parisar", "price": 94, "rating": 4.3 },
+        { "storeName": "Smart Bazaar", "location": "Derga", "price": 95, "rating": 4.2 },
+        { "storeName": "City Superstore", "location": "MIT", "price": 96, "rating": 4.1 }
       ]
     },
     {
@@ -199,9 +199,9 @@
       "category": "Home & Kitchen",
       "image": "https://rukminim2.flixcart.com/image/300/300/l3t2fm80/pressure-cooker/q/z/p/3-3l-induction-bottom-aluminium-pressure-cooker-with-inner-lid-original-imageum7ufnvs3kg.jpeg",
       "stores": [
-        { "storeName": "Smart Bazaar", "location": "Jalgaon", "price": 890, "rating": 4.5 },
-        { "storeName": "Mega Store", "location": "Pachora", "price": 899, "rating": 4.4 },
-        { "storeName": "City Superstore", "location": "Nashik", "price": 905, "rating": 4.3 }
+        { "storeName": "Smart Bazaar", "location": "Derga", "price": 890, "rating": 4.5 },
+        { "storeName": "Mega Store", "location": "Satara Parisar", "price": 899, "rating": 4.4 },
+        { "storeName": "City Superstore", "location": "MIT", "price": 905, "rating": 4.3 }
       ]
     },
     {
@@ -211,9 +211,9 @@
       "category": "Home & Kitchen",
       "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/gas-stove/s/e/k/-original-imagg8ztc7pajzcd.jpeg",
       "stores": [
-        { "storeName": "Mega Store", "location": "Bhusawal", "price": 1480, "rating": 4.2 },
-        { "storeName": "Smart Bazaar", "location": "Pachora", "price": 1500, "rating": 4.1 },
-        { "storeName": "City Superstore", "location": "Nashik", "price": 1499, "rating": 4.4 }
+        { "storeName": "Mega Store", "location": "High court", "price": 1480, "rating": 4.2 },
+        { "storeName": "Smart Bazaar", "location": "Satara Parisar", "price": 1500, "rating": 4.1 },
+        { "storeName": "City Superstore", "location": "MIT", "price": 1499, "rating": 4.4 }
       ]
     },
     {
@@ -223,9 +223,9 @@
       "category": "Home & Kitchen",
       "image": "https://rukminim2.flixcart.com/image/300/300/krs40i80/kitchen-tool-set/i/f/a/kitchen-knife-set-stainless-steel-knife-original-imag5gmcwczxuqdz.jpeg",
       "stores": [
-        { "storeName": "Daily Needs", "location": "Pachora", "price": 295, "rating": 4.3 },
-        { "storeName": "Smart Bazaar", "location": "Jalgaon", "price": 299, "rating": 4.2 },
-        { "storeName": "City Superstore", "location": "Nashik", "price": 300, "rating": 4.1 }
+        { "storeName": "D Mart", "location": "Satara Parisar", "price": 295, "rating": 4.3 },
+        { "storeName": "Smart Bazaar", "location": "Derga", "price": 299, "rating": 4.2 },
+        { "storeName": "City Superstore", "location": "MIT", "price": 300, "rating": 4.1 }
       ]
     },
     {
@@ -235,9 +235,9 @@
       "category": "Home & Kitchen",
       "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/frying-pan/y/w/o/-original-imaggzgtb4szpqzg.jpeg",
       "stores": [
-        { "storeName": "Mega Store", "location": "Bhusawal", "price": 500, "rating": 4.4 },
-        { "storeName": "City Superstore", "location": "Nashik", "price": 498, "rating": 4.3 },
-        { "storeName": "Smart Bazaar", "location": "Pachora", "price": 499, "rating": 4.2 }
+        { "storeName": "Mega Store", "location": "High court", "price": 500, "rating": 4.4 },
+        { "storeName": "City Superstore", "location": "MIT", "price": 498, "rating": 4.3 },
+        { "storeName": "Smart Bazaar", "location": "Satara Parisar", "price": 499, "rating": 4.2 }
       ]
     } 
 ]
