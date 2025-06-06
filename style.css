@@ -59,3 +59,8 @@ header {
     color: #FFD700;
     font-size: 18px;
 }
+
+
+a {
+    text-decoration: none !important;
+  }

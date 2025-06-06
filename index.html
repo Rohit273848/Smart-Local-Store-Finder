@@ -30,17 +30,26 @@
         <div class="text-3xl font-bold text-pink-600 tracking-wide ">
             <span class="text-gray-800">Shop</span><span class="text-yellow-600">Near</span>
         </div>
-        <div id="search" class="text-right pr-1 flex justify-center pt-3 sm:pt-0 bg-[#ffffff]">
-            <input type="text" id="productSearch" placeholder="Search for a product..." oninput="filterStores()"
-                class="px-6 py-2 w-[462px] rounded border border-gray-300" />
-                <input
-                id="searchInput"
-                type="text"
-                placeholder="Search for products or categories..."
-                class="border px-4 py-2 rounded w-full max-w-md"
-              />
-              
+        <div id="search" class="flex  sm:flex-row items-center justify-center  p-4 bg-white">
+          <!-- Single search input field (you can remove one if not needed) -->
+          <input
+            id="productSearch"
+            type="text"
+            placeholder="Search for products or categories..."
+            class="px-5 py-2 w-full border-r-0 max-w-md rounded border border-yellow-300 focus:outline-none focus:ring-2 focus:ring-blue-400"
+            oninput="filterStores()"
+          />
+        
+          <!-- Search Button -->
+          <button
+            id="searchButton"
+            class="bg-yellow-600 text-white px-5 py-2 rounded shadow-md hover:bg-yellow-400 hover:shadow-[0_8px_20px_rgba(59,130,246,0.4)] transition"
+            onclick="filterStores()"
+          >
+            Search
+          </button>
         </div>
+        
     </div>
   <!-- How it works section -->
   <div id="howItwork" class=" hidden fixed inset-0 bg-white bg-opacity-95  flex-col py-16 px-4 overflow-auto z-50">
@@ -170,13 +179,13 @@
       <div class="flex flex-wrap justify-around  gap-y-10 text-center">
 
    <!-- Snacks & Beverages -->
-<a href="products.html?category=Snacks%20%26%20Beverages" class="flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105  text-black">
+<a href="products.html?category=Snacks%20%26%20Beverages" class="no-underline flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105  text-black">
   <img src="https://rukminim2.flixcart.com/flap/128/128/image/9fbd36.jpg?q=100" alt="Snacks" class="w-16 h-16 object-contain mb-2" />
   <p class="text-sm font-semibold text-center">Snacks & Beverages</p>
 </a>
     
     <!-- Personal & Baby Care -->
-<a href="products.html?category=Personal%20%26%20Baby%20Care" class="flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105 text-black hover:text-yellow-600">
+<a href="products.html?category=Personal%20%26%20Baby%20Care" class="no-underline text-black  flex flex-col items-center w-24 md:w-40 p-3 bg-white rounded-lg shadow hover:shadow-md transition-transform transform hover:scale-105  hover:text-yellow-600">
   <img src="https://rukminim2.flixcart.com/flap/128/128/image/7670e2.jpg?q=100" alt="Personal Care" class="w-16 h-16 object-contain mb-2" />
   <p class="text-sm font-semibold text-center">Personal & Baby Care</p>
 </a>
