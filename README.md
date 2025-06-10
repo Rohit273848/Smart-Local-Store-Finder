@@ -66,6 +66,10 @@ A **responsive** web-based **Local Store-Based E-Commerce Platform** where users
 -  Save ratings using localStorage (planned)
 -  Backend API (Node.js) (future work)
 
+## 🌐 Live Demo
+- 🔗 Visit Live Portfolio
+- https://rohit273848.github.io/Smart-Local-Store-Finder/
+
 ## 📬 Developer Info
 - Project by: Rohit Mahajan
 
